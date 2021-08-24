@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.facebook.flipper:flipper:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/e1eb613bbc1ce10a71714a15bb6fd48e/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/8c95802db727ca597f82e58c60a017c7/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/7c34a40d1af8c3513496b5e4d34df95c/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.react:react-native:0.65.1] /home/wangoes116/.gradle/caches/transforms-3/7a3963757768e813191d404103b7aece/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/f4bb996eeb468d4b6343d69533b86cfa/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /home/wangoes116/.gradle/caches/transforms-3/e614b4ce5e314cecdf52afcba7d2c577/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/1d1c6391b532fc223ab77be549c9a1b1/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/6c02f0bdc847cb8976f60e55a4663fed/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/d482d32c9a807bf16a441b2f5dbba54a/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/b9e4dd6e63ec26183fbec33f4847f026/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/21cc2ed62c7a7d55e725899e92ab5592/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/558d48424b3c93e157fd328a90ddf800/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/d6195014a1cc474537d12a99c59452d7/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/b1ed01861bf0aeda2b98297139c19d64/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/5d59dd2be22fd75889f11826d7f9a908/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/a318c8926a8f2a80ffa016bfb1a4c86d/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/wangoes116/.gradle/caches/transforms-3/a21dd341db330823150e24457fb1c63d/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/960ed20afef3f8e1ad2d3288d1df262d/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/f6fc06cfe1e1a3fbbcc7e832fe0642ac/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/63dc95ec9db172593affe0a18e13aa5e/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/eb21a071c0360a69bd0e2b0704d7790c/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/8d7e1094f2b23168cc79cbcffe9ea63d/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/21bc1324535d49f43e8777eb732fef24/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/e1d955494e5b8acb958e4bebf6088c16/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/ecd0b4c5b5af884e2af298f8456c2b97/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/73643bcfe326bbc9afad8ee8309f065e/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/145babba5da1baee0efa9c8093f59df4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/12ac5340dc8bcd01f5993f4d841f3266/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/5f0ade0b416dbe49e622d77c3abb84b0/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/d16cac36c02ecd2fc121b716bec1e182/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/d3cb8d5a9bc3a8ff75f791bbf0a32cba/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/8029010765158dc8ba95c32cae220ad8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/b75d24d635100b49ddd5aa41a25f320d/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/487c8890d9e114dd33a17ebaf11bb9bd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/faf973d611b3b2aa67253b961011ab5c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/7f68eb4f33ed0176511ff55d6ead7749/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/a44967f685452c130a627e08268894b2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/11db093f37712753fe1afde9410223cd/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/6768e9adef73edd31b3fa56b09cdb64e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/2a64587b584c0422b78aa99089ee8812/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/d1972339329b48ff94bb0c5bda8e63d5/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/e4816de3a4749b88b6b8fdf6f9792cf2/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/wangoes116/.gradle/caches/transforms-3/1ad071d25d7201d7a7a0c23d0f97a6f3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/wangoes116/.gradle/caches/transforms-3/a52f88976c80d71a862fa84224d14144/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/wangoes116/.gradle/caches/transforms-3/6723322ca337570c9a0cf6b11303b810/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/b6537311d3fa2167c29c27a6366be664/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/e1eb613bbc1ce10a71714a15bb6fd48e/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/e1eb613bbc1ce10a71714a15bb6fd48e/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.65.1] /home/wangoes116/.gradle/caches/transforms-3/7a3963757768e813191d404103b7aece/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.65.1] /home/wangoes116/.gradle/caches/transforms-3/7a3963757768e813191d404103b7aece/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/wangoes116/.gradle/caches/transforms-3/a21dd341db330823150e24457fb1c63d/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/wangoes116/.gradle/caches/transforms-3/a21dd341db330823150e24457fb1c63d/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/7f68eb4f33ed0176511ff55d6ead7749/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/7f68eb4f33ed0176511ff55d6ead7749/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/6768e9adef73edd31b3fa56b09cdb64e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/6768e9adef73edd31b3fa56b09cdb64e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/7f68eb4f33ed0176511ff55d6ead7749/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.shoppinglist.MainActivity
+ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/e1eb613bbc1ce10a71714a15bb6fd48e/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/e1eb613bbc1ce10a71714a15bb6fd48e/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/8c95802db727ca597f82e58c60a017c7/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/8c95802db727ca597f82e58c60a017c7/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/7c34a40d1af8c3513496b5e4d34df95c/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/7c34a40d1af8c3513496b5e4d34df95c/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.react:react-native:0.65.1] /home/wangoes116/.gradle/caches/transforms-3/7a3963757768e813191d404103b7aece/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.65.1] /home/wangoes116/.gradle/caches/transforms-3/7a3963757768e813191d404103b7aece/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/f4bb996eeb468d4b6343d69533b86cfa/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/f4bb996eeb468d4b6343d69533b86cfa/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /home/wangoes116/.gradle/caches/transforms-3/e614b4ce5e314cecdf52afcba7d2c577/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /home/wangoes116/.gradle/caches/transforms-3/e614b4ce5e314cecdf52afcba7d2c577/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/1d1c6391b532fc223ab77be549c9a1b1/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/1d1c6391b532fc223ab77be549c9a1b1/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/6c02f0bdc847cb8976f60e55a4663fed/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/6c02f0bdc847cb8976f60e55a4663fed/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/d482d32c9a807bf16a441b2f5dbba54a/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/d482d32c9a807bf16a441b2f5dbba54a/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/b9e4dd6e63ec26183fbec33f4847f026/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/b9e4dd6e63ec26183fbec33f4847f026/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/21cc2ed62c7a7d55e725899e92ab5592/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/21cc2ed62c7a7d55e725899e92ab5592/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/558d48424b3c93e157fd328a90ddf800/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/558d48424b3c93e157fd328a90ddf800/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/d6195014a1cc474537d12a99c59452d7/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/d6195014a1cc474537d12a99c59452d7/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/b1ed01861bf0aeda2b98297139c19d64/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/b1ed01861bf0aeda2b98297139c19d64/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/5d59dd2be22fd75889f11826d7f9a908/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/5d59dd2be22fd75889f11826d7f9a908/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/a318c8926a8f2a80ffa016bfb1a4c86d/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/a318c8926a8f2a80ffa016bfb1a4c86d/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/wangoes116/.gradle/caches/transforms-3/a21dd341db330823150e24457fb1c63d/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /home/wangoes116/.gradle/caches/transforms-3/a21dd341db330823150e24457fb1c63d/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/960ed20afef3f8e1ad2d3288d1df262d/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/960ed20afef3f8e1ad2d3288d1df262d/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/f6fc06cfe1e1a3fbbcc7e832fe0642ac/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/f6fc06cfe1e1a3fbbcc7e832fe0642ac/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/63dc95ec9db172593affe0a18e13aa5e/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/63dc95ec9db172593affe0a18e13aa5e/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/eb21a071c0360a69bd0e2b0704d7790c/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/eb21a071c0360a69bd0e2b0704d7790c/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/8d7e1094f2b23168cc79cbcffe9ea63d/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/8d7e1094f2b23168cc79cbcffe9ea63d/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/21bc1324535d49f43e8777eb732fef24/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/21bc1324535d49f43e8777eb732fef24/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/e1d955494e5b8acb958e4bebf6088c16/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/e1d955494e5b8acb958e4bebf6088c16/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/ecd0b4c5b5af884e2af298f8456c2b97/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/ecd0b4c5b5af884e2af298f8456c2b97/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/73643bcfe326bbc9afad8ee8309f065e/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/73643bcfe326bbc9afad8ee8309f065e/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/145babba5da1baee0efa9c8093f59df4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/145babba5da1baee0efa9c8093f59df4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/12ac5340dc8bcd01f5993f4d841f3266/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/12ac5340dc8bcd01f5993f4d841f3266/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/5f0ade0b416dbe49e622d77c3abb84b0/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/5f0ade0b416dbe49e622d77c3abb84b0/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/d16cac36c02ecd2fc121b716bec1e182/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/d16cac36c02ecd2fc121b716bec1e182/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/d3cb8d5a9bc3a8ff75f791bbf0a32cba/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/d3cb8d5a9bc3a8ff75f791bbf0a32cba/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/8029010765158dc8ba95c32cae220ad8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/8029010765158dc8ba95c32cae220ad8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/b75d24d635100b49ddd5aa41a25f320d/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/b75d24d635100b49ddd5aa41a25f320d/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/487c8890d9e114dd33a17ebaf11bb9bd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/487c8890d9e114dd33a17ebaf11bb9bd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/faf973d611b3b2aa67253b961011ab5c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/faf973d611b3b2aa67253b961011ab5c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/7f68eb4f33ed0176511ff55d6ead7749/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/7f68eb4f33ed0176511ff55d6ead7749/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/a44967f685452c130a627e08268894b2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/a44967f685452c130a627e08268894b2/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/11db093f37712753fe1afde9410223cd/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/11db093f37712753fe1afde9410223cd/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/6768e9adef73edd31b3fa56b09cdb64e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/wangoes116/.gradle/caches/transforms-3/6768e9adef73edd31b3fa56b09cdb64e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/2a64587b584c0422b78aa99089ee8812/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/2a64587b584c0422b78aa99089ee8812/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/d1972339329b48ff94bb0c5bda8e63d5/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/wangoes116/.gradle/caches/transforms-3/d1972339329b48ff94bb0c5bda8e63d5/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/e4816de3a4749b88b6b8fdf6f9792cf2/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/wangoes116/.gradle/caches/transforms-3/e4816de3a4749b88b6b8fdf6f9792cf2/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/wangoes116/.gradle/caches/transforms-3/1ad071d25d7201d7a7a0c23d0f97a6f3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/wangoes116/.gradle/caches/transforms-3/1ad071d25d7201d7a7a0c23d0f97a6f3/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/wangoes116/.gradle/caches/transforms-3/a52f88976c80d71a862fa84224d14144/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/wangoes116/.gradle/caches/transforms-3/a52f88976c80d71a862fa84224d14144/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/wangoes116/.gradle/caches/transforms-3/6723322ca337570c9a0cf6b11303b810/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/wangoes116/.gradle/caches/transforms-3/6723322ca337570c9a0cf6b11303b810/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/b6537311d3fa2167c29c27a6366be664/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /home/wangoes116/.gradle/caches/transforms-3/b6537311d3fa2167c29c27a6366be664/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:11:9-86
+	android:name
+		ADDED from /home/wangoes116/Project/ShoppingList/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/e1eb613bbc1ce10a71714a15bb6fd48e/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.93.0] /home/wangoes116/.gradle/caches/transforms-3/e1eb613bbc1ce10a71714a15bb6fd48e/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:22-73
